@@ -21,6 +21,7 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 | 🔗 Meeting Link | **Teams Call:** https://aka.ms/joinaksofficehours
 | 📝 Meeting Notes | TBD
 | 🎥 Meeting Recordings | http://aka.ms/aksofficehours-recordings
+| :calendar: Calendar invite | [Download](https://aksofficehours.blob.core.windows.net/calendar-invites/Microsoft%20AKS%20Public%20Office%20Hours.ics?sp=r&st=2020-09-08T19:49:44Z&se=2020-12-19T04:49:44Z&spr=https&sv=2019-12-12&sr=b&sig=nuPRk8wb9m89TNQv0qVuzAv6LgCGAFhskq8o7vyOTlE%3D)
 
 **Call agenda**: 
 - 5-10 minutes: Welcome, followed by AKS and ecosystem updates 
