@@ -1,3 +1,38 @@
+# Microsoft AKS Public Office Hours
+
+Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold a call to showcase new features, talk through important topics and engage in a Q&A regarding Azure Kubernetes Service and related Cloud Native technologies. The foundational goals of the call are highlighted below: 
+- Provide AKS customers with updates pertaining to AKS and the Cloud Native Ecosystem 
+- Host a short talk and/or demo on Cloud Native technologies related to Kubernetes and AKS 
+- Collect feedback from customers on issues, blockers, use cases, and questions related to AKS 
+
+**Upcoming Meetings**:
+- Thursday September 10th 11am Central Time (CST) - Topic to cover: Private Clusters 
+- Thursday September 24th 11am Central Time (CST) - Topic to cover: TBD
+- Thursday October 8th 11am Central Time (CST) - Topic to cover: TBD
+- Thursday October 22nd 11am Central Time (CST) - Topic to cover: TBD
+- Thursday November 12th 11am Central Time (CST) - Topic to cover: TBD
+- Thursday November 26th 11am Central Time (CST) - Topic to cover: TBD
+- Thursday December 10th 11am Central Time (CST) - Topic to cover: TBD
+- Thursday December 17th 11am Central Time (CST) - Topic to cover: TBD
+
+
+| Asset | Link        |
+|:-----------|:------------|
+| 🔗 Meeting Link | **Teams Call:** https://aka.ms/joinaksofficehours
+| 📝 Meeting Notes | TBD
+| 🎥 Meeting Recordings | http://aka.ms/aksofficehours-recordings
+
+**Call agenda**: 
+- 5-10 minutes: Welcome, followed by AKS and ecosystem updates 
+- 20-30 minutes: Talk/demo on Azure container technologies or broader cloud native technologies 
+- 20-30 minutes: “Ask us anything” and customer feedback discussion
+
+## Related AKS Resources
+
+See [Roadmap](https://github.com/Azure/AKS/projects/1) for what's planned for AKS moving forward
+
+## Contact Us
+Reach out with any questions you may have and we'll make sure to answer then as soon as possible!
 
 # Contributing
 
