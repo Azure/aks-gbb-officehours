@@ -5,6 +5,11 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 - Host a short talk and/or demo on Cloud Native technologies related to Kubernetes and AKS 
 - Collect feedback from customers on issues, blockers, use cases, and questions related to AKS 
 
+**Call agenda**: 
+- 5-10 minutes: Welcome, followed by AKS and ecosystem updates 
+- 20-30 minutes: Talk/demo on Azure container technologies or broader cloud native technologies 
+- 20-30 minutes: “Ask us anything” and customer feedback discussion
+
 **Upcoming Meetings**:
 - Thursday September 10th 11am Central Time (CST) - Topic to cover: Private Clusters 
 - Thursday September 24th 11am Central Time (CST) - Topic to cover: AAD-Enabled Clusters
@@ -28,11 +33,6 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 1. Download the .ics file 
 2. Open Outlook for the web 
 3. Drag and drop the .ics file onto your calendar 
-
-**Call agenda**: 
-- 5-10 minutes: Welcome, followed by AKS and ecosystem updates 
-- 20-30 minutes: Talk/demo on Azure container technologies or broader cloud native technologies 
-- 20-30 minutes: “Ask us anything” and customer feedback discussion
 
 ## Related AKS Resources
 
