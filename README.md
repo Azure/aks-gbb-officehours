@@ -33,7 +33,7 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 See [Roadmap](https://github.com/Azure/AKS/projects/1) for what's planned for AKS moving forward
 
 ## Contact Us
-Reach out with any questions you may have and we'll make sure to answer then as soon as possible!
+Reach out with any questions you may have and we'll make sure to answer them as soon as possible!
 
 # Contributing
 
