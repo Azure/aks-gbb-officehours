@@ -7,7 +7,7 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 
 **Upcoming Meetings**:
 - Thursday September 10th 11am Central Time (CST) - Topic to cover: Private Clusters 
-- Thursday September 24th 11am Central Time (CST) - Topic to cover: TBD
+- Thursday September 24th 11am Central Time (CST) - Topic to cover: AAD-Enabled Clusters
 - Thursday October 8th 11am Central Time (CST) - Topic to cover: TBD
 - Thursday October 22nd 11am Central Time (CST) - Topic to cover: TBD
 - Thursday November 12th 11am Central Time (CST) - Topic to cover: TBD
