@@ -22,7 +22,12 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 | 📝 Meeting Notes | TBD
 | 🎥 Meeting Recordings | http://aka.ms/aksofficehours-recordings
 | :calendar: Calendar invite | [Download](https://aksofficehours.blob.core.windows.net/calendar-invites/Microsoft%20AKS%20Public%20Office%20Hours.ics?sp=r&st=2020-09-08T19:49:44Z&se=2020-12-19T04:49:44Z&spr=https&sv=2019-12-12&sr=b&sig=nuPRk8wb9m89TNQv0qVuzAv6LgCGAFhskq8o7vyOTlE%3D)
-| :email: Email invite template | [Windows](https://aksofficehours.blob.core.windows.net/calendar-invites/You're%20invited%20to%20AKS%20Public%20Office%20Hours!%20.msg?sp=r&st=2020-09-09T18:20:39Z&se=2020-12-18T03:20:39Z&spr=https&sv=2019-12-12&sr=b&sig=L1ioJlRP26Qyk4iLMSAqbFWmKICvvZYtjlahyNHvUXU%3D), [Mac](https://aksofficehours.blob.core.windows.net/calendar-invites/You're%20invited%20to%20AKS%20Public%20Office%20Hours!%20.emltpl?sp=r&st=2020-09-09T18:52:28Z&se=2020-12-18T03:52:28Z&spr=https&sv=2019-12-12&sr=b&sig=a1twYoRjk1aqjcf3CWe7syFlACQqbL0kfksijaAOzHA%3D)
+| :email: Email invite template | [Windows](https://aksofficehours.blob.core.windows.net/calendar-invites/You're%20invited%20to%20AKS%20Public%20Office%20Hours!%20.msg?sp=r&st=2020-09-09T18:20:39Z&se=2020-12-18T03:20:39Z&spr=https&sv=2019-12-12&sr=b&sig=L1ioJlRP26Qyk4iLMSAqbFWmKICvvZYtjlahyNHvUXU%3D), [Mac](https://aksofficehours.blob.core.windows.net/calendar-invites/You're%20invited%20to%20AKS%20Public%20Office%20Hours!%20.emltpl?sp=r&st=2020-09-09T19:01:35Z&se=2020-12-18T04:01:35Z&spr=https&sv=2019-12-12&sr=b&sig=wu92EHA%2Bf%2Ff2pFadMqOHdon7NM%2Fm8Mj7alXmVJRSjPo%3D)
+
+**NOTE**: If you are using Outlook for Mac, you may have trouble adding the invite to your calendar. In order to avoid issues, follow the steps below: 
+1. Download the .ics file 
+2. Open Outlook for the web 
+3. Drag and drop the .ics file onto your calendar 
 
 **Call agenda**: 
 - 5-10 minutes: Welcome, followed by AKS and ecosystem updates 
