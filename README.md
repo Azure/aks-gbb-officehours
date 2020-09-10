@@ -36,7 +36,7 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 
 ## Related AKS Resources
 
-See [Roadmap](https://github.com/Azure/AKS/projects/1) for what's planned for AKS moving forward
+See [AKS Resources](https://github.com/Azure/aks-gbb-officehours/blob/main/Resources.md) for a list of all resources and link referenced on previous calls! 
 
 ## Contact Us
 Reach out to us at aksofficehours@microsoft.com and we'll make sure to answer your questions as soon as possible!
