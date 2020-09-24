@@ -1,26 +1,12 @@
 # Microsoft AKS Public Office Hours
 
+## Overview
 Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold a call to showcase new features, talk through important topics and engage in a Q&A regarding Azure Kubernetes Service and related Cloud Native technologies. The foundational goals of the call are highlighted below: 
 - Provide AKS customers with updates pertaining to AKS and the Cloud Native Ecosystem 
 - Host a short talk and/or demo on Cloud Native technologies related to Kubernetes and AKS 
 - Collect feedback from customers on issues, blockers, use cases, and questions related to AKS 
 
-**Call agenda**: 
-- 5-10 minutes: Welcome, followed by AKS and ecosystem updates 
-- 20-30 minutes: Talk/demo on Azure container technologies or broader cloud native technologies 
-- 20-30 minutes: “Ask us anything” and customer feedback discussion
-
-**Upcoming Meetings**:
-- Thursday September 24th 11am Central Time (CST) - Topic to cover: AAD-Enabled Clusters
-- Thursday October 8th 11am Central Time (CST) - Topic to cover: TBD
-- Thursday October 22nd 11am Central Time (CST) - Topic to cover: TBD
-- Thursday November 12th 11am Central Time (CST) - Topic to cover: TBD
-- Thursday November 26th 11am Central Time (CST) - Topic to cover: TBD
-- Thursday December 10th 11am Central Time (CST) - Topic to cover: TBD
-- Thursday December 17th 11am Central Time (CST) - Topic to cover: TBD
-
-**Past Meetings**: 
-- Thursday September 10th on Private Clusters 
+## Meeting links and recordings 
 
 | Asset | Link        |
 |:-----------|:------------|
@@ -34,12 +20,31 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 1. Download the .ics file 
 2. Open Outlook for the web 
 3. Drag and drop the .ics file onto your calendar 
+## Agenda
+- 5-10 minutes: Welcome, followed by AKS and ecosystem updates 
+- 20-30 minutes: Talk/demo on Azure container technologies or broader cloud native technologies 
+- 20-30 minutes: “Ask us anything” and customer feedback discussion
+
+## Schedule 
+
+**Upcoming Meetings**:
+- Thursday October 8th 11am Central Time (CST) - Topic to cover: TBD
+- Thursday October 22nd 11am Central Time (CST) - Topic to cover: TBD
+- Thursday November 12th 11am Central Time (CST) - Topic to cover: TBD
+- Thursday November 26th 11am Central Time (CST) - Topic to cover: TBD
+- Thursday December 10th 11am Central Time (CST) - Topic to cover: TBD
+- Thursday December 17th 11am Central Time (CST) - Topic to cover: TBD
+
+**Past Meetings**: 
+- Thursday September 24th 11am Central Time (CST) - Topic to cover: AAD-Enabled Clusters
+- Thursday September 10th on Private Clusters 
 
 ## Related AKS Resources
 
 See [AKS Resources](https://github.com/Azure/aks-gbb-officehours/blob/main/Resources.md) for a list of all resources referenced on previous calls! 
 
 ## Contact Us
+
 Reach out to us at aksofficehours@microsoft.com and we'll make sure to answer your questions as soon as possible!
 
 # Contributing
