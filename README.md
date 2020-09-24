@@ -49,6 +49,7 @@ Reach out to us at aksofficehours@microsoft.com and we'll make sure to answer yo
 
 ## Contributing and Legal Notices 
 <details> 
+  
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
