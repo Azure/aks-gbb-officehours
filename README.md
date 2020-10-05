@@ -28,7 +28,7 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 ## Schedule 
 
 **Upcoming Meetings**:
-- Thursday October 8th 11am Central Time (CST) - Topic to cover: TBD
+- Thursday October 8th 11am Central Time (CST) - Topic to cover: Azure Policy for AKS with Liz Kim, PM on Azure Policy PG
 - Thursday October 22nd 11am Central Time (CST) - Topic to cover: TBD
 - Thursday November 12th 11am Central Time (CST) - Topic to cover: TBD
 - Thursday November 26th 11am Central Time (CST) - Topic to cover: TBD
