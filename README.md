@@ -36,7 +36,7 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 - Thursday December 17th 11am Central Time (CST) - Topic to cover: TBD
 
 **Past Meetings**: 
-- Thursday September 24th 11am Central Time (CST) - Topic to cover: [AAD-Enabled Clusters](https://youtu.be/2s19zk_Z4DQ)
+- Thursday September 24th 11am Central Time (CST) on [AAD-Enabled Clusters](https://youtu.be/2s19zk_Z4DQ)
 - Thursday September 10th on [Private Clusters](https://youtu.be/yzrIVm6hwYg)
 
 ## Related AKS Resources
