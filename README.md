@@ -29,7 +29,8 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 
 **Upcoming Meetings**:
 
-- Thursday October 22nd 11am Central Time (CST) - Topic to cover: TBD
+- Thursday October 22nd 11am Central Time (CST) - Ask Me Anything session with Brendan Burns, CVP responsible for Azure management and governance, Kubernetes on Azure, Linux on Azure, SAP on Azure, PowerShell and Service Fabric
+
 - Thursday November 12th 11am Central Time (CST) - Topic to cover: TBD
 - Thursday November 26th 11am Central Time (CST) - Topic to cover: TBD
 - Thursday December 10th 11am Central Time (CST) - Topic to cover: TBD
