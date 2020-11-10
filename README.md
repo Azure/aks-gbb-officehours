@@ -28,12 +28,6 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 ## Schedule 
 
 **Upcoming Meetings**:
-
-- Thursday October 22nd 11am Central Time (CST)\
-  Topic: **Microsoft's Open Source strategy and upstream contributions to Cloud Native projects** with Lachie Evenson, PM Manager on the upstream team 
-  
-- Thursday November 12th 11am Central Time (CST)\
-  Topic: **AKS Advanced Networking** with Steve Griffith, Principal Technical Specialist on the Cloud Native GBB team
   
 - Thursday November 26th 11am Central Time (CST)\
   Topic: TBD
@@ -46,6 +40,8 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 
 
 **Past Meetings**: 
+- Thursday November 12th 11am Central Time (CST) on [AKS Advanced Networking](https://youtu.be/8YT1m24PoW4)
+- Thursday October 22nd 11am Central Time (CST) on [Microsoft's OSS Strategy & Contributions](https://youtu.be/rgSm-EUfQ3A?list=PLKFaWBYMOdDtIGnRBFSgjWwrkaqP3XZ5M)
 - Thursday October 8th 11am Central Time (CST) on [Azure Policy for AKS](https://youtu.be/aFogd3aGxVI)
 - Thursday September 24th 11am Central Time (CST) on [AAD-Enabled Clusters](https://youtu.be/2s19zk_Z4DQ)
 - Thursday September 10th on [Private Clusters](https://youtu.be/yzrIVm6hwYg)
