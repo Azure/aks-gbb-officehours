@@ -29,10 +29,10 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 
 **Upcoming Meetings**:
   
-- Thursday November 26th 11am Central Time (CST)\
+- Thursday November 19th 11am Central Time (CST)\
   Topic: TBD
 
-- Thursday December 10th 11am Central Time (CST)\
+- Thursday December 3rd 11am Central Time (CST)\
   Topic: TBD
 
 - Thursday December 17th 11am Central Time (CST)\
