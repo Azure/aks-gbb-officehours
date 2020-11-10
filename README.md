@@ -40,7 +40,7 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 
 
 **Past Meetings**: 
-- Thursday November 12th 11am Central Time (CST) on [AKS Advanced Networking](https://youtu.be/8YT1m24PoW4)\
+- Thursday November 5th 11am Central Time (CST) on [AKS Advanced Networking](https://youtu.be/8YT1m24PoW4)\
 Content referenced can be found on [resources](https://github.com/Azure/aks-gbb-officehours/blob/main/Resources.md#advanced-networking-115-call) page
 - Thursday October 22nd 11am Central Time (CST) on [Microsoft's OSS Strategy & Contributions](https://youtu.be/rgSm-EUfQ3A?list=PLKFaWBYMOdDtIGnRBFSgjWwrkaqP3XZ5M)
 - Thursday October 8th 11am Central Time (CST) on [Azure Policy for AKS](https://youtu.be/aFogd3aGxVI)
