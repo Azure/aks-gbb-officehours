@@ -30,13 +30,13 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 **Upcoming Meetings**:
   
 - Thursday November 19th 11am Central Time (CST)\
-  Topic: TBD
+  Topic: KEDA on AKS with Kendall Roden from the Cloud Native GBB Team
 
 - Thursday December 3rd 11am Central Time (CST)\
-  Topic: TBD
+  Topic: GitOps 
 
 - Thursday December 17th 11am Central Time (CST)\
-  Topic: TBD
+  Topic: Cloud Native and AKS GBB discussion panel
 
 
 **Past Meetings**: 
