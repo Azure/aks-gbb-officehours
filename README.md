@@ -13,7 +13,7 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 | 🔗 Meeting Link | **Teams Call:** https://aka.ms/joinaksofficehours
 | 📝 Meeting Presentations | [View](https://github.com/Azure/aks-gbb-officehours/tree/main/Presentations)
 | 🎥 Meeting Recordings | http://aka.ms/aksofficehours-recordings
-| :calendar: Calendar invite | TBD or 2021
+| :calendar: Calendar invite | TBD for 2021
 | :email: Email invite template | TBD for 2021
 
 **NOTE**: If you are using Outlook for Mac, you may have trouble adding the invite to your calendar. In order to avoid issues, follow the steps below: 
@@ -33,7 +33,7 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
   Topic: Cloud Native and AKS GBB discussion panel
 
 **Past Meetings**: 
-- Thursday December 3rd 11am Central Time (CST) on [GitOps] 
+- Thursday December 3rd 11am Central Time (CST) on [GitOps](https://www.youtube.com/watch?v=APooVi5g8eI&list=PLKFaWBYMOdDtIGnRBFSgjWwrkaqP3XZ5M&index=1)
 - Thursday November 19th 11am Central Time (CST) on [KEDA](https://youtu.be/Z_n-FrOx7gY?list=PLKFaWBYMOdDtIGnRBFSgjWwrkaqP3XZ5M)
 - Thursday November 5th 11am Central Time (CST) on [AKS Advanced Networking](https://youtu.be/8YT1m24PoW4)\
 Content referenced can be found on [resources](https://github.com/Azure/aks-gbb-officehours/blob/main/Resources.md#advanced-networking-115-call) page
