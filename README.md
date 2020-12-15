@@ -30,7 +30,7 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 **2020 Upcoming Meetings**:
 
 - LAST MEETING OF 2020!!! You don't want to miss! Thursday December 17th 11am Central Time (CST)\
-  Topic: Cloud Native and AKS GBB discussion panel with [Robert Libbert](https://www.linkedin.com/in/robertlibbert/), [Fernando Mejia](https://www.linkedin.com/in/feranto/) and [Linda Nichols](https://www.linkedin.com/in/lynnaloo/)! 
+  Topic: Cloud Native and AKS GBB discussion panel with [Robert Libbert](https://www.linkedin.com/in/robertlibbert/), [Fernando Mejia](https://www.linkedin.com/in/feranto/) and [Linda Nichols](https://www.linkedin.com/in/lynnaloo/) and [Brian Redmond](https://www.linkedin.com/in/redmondbrian/)! 
 
 **Past Meetings**: 
 - Thursday December 3rd 11am Central Time (CST) on [GitOps](https://www.youtube.com/watch?v=APooVi5g8eI&list=PLKFaWBYMOdDtIGnRBFSgjWwrkaqP3XZ5M&index=1)
