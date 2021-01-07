@@ -13,8 +13,8 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 | 🔗 Meeting Link | **Teams Call:** https://aka.ms/joinaksofficehours
 | 📝 Meeting Presentations | [View](https://github.com/Azure/aks-gbb-officehours/tree/main/Presentations)
 | 🎥 Meeting Recordings | http://aka.ms/aksofficehours-recordings
-| :calendar: Calendar invite | TBD for 2021
-| :email: Email invite template | TBD for 2021
+| :calendar: Calendar invite | Available for download on 1/8/2020
+| :email: Email invite template | Available for download on 1/8/2020
 
 **NOTE**: If you are using Outlook for Mac, you may have trouble adding the invite to your calendar. In order to avoid issues, follow the steps below: 
 1. Download the .ics file 
@@ -27,12 +27,23 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 
 ## Schedule 
 
-**2020 Upcoming Meetings**:
+**2021 Upcoming Meetings**:
 
-- LAST MEETING OF 2020!!! You don't want to miss! Thursday December 17th 11am Central Time (CST)\
-  Topic: Cloud Native and AKS GBB discussion panel with [Robert Libbert](https://www.linkedin.com/in/robertlibbert/), [Fernando Mejia](https://www.linkedin.com/in/feranto/) and [Linda Nichols](https://www.linkedin.com/in/lynnaloo/) and [Brian Redmond](https://www.linkedin.com/in/redmondbrian/)! 
+- Thursday January 14th 11am Central Time (CST) - Open discussion regarding content and topics for the year hosted by Dave and Kendall
+- Thursday January 28th 11am Central Time (CST) - Tenative: Application Gateway Ingress Controller for AKS
+- Thursday February 11th 11am Central Time (CST) - AAD Pod Identity Deep Dive 
+- Thursday February 25th 11am Central Time (CST) - TBD
+- Thursday March 11th 11am Central Time (CST) - TBD 
+- Thursday March 25th 11am Central Time (CST) - TBD 
+- Thursday April 8th 11am Central Time (CST) - TBD 
+- Thursday April 22nd 11am Central Time (CST) - TBD 
+- Thursday May 6th 11am Central Time (CST) - TBD 
+- Thursday May 20th 11am Central Time (CST) - TBD 
+- Thursday June 3rd 11am Central Time (CST) - TBD 
+- Thursday June 17th 11am Central Time (CST) - TBD 
 
 **Past Meetings**: 
+- Thursday December 17th 11am Central Time (CST)- AKS GBB discussion panel
 - Thursday December 3rd 11am Central Time (CST) on [GitOps](https://www.youtube.com/watch?v=APooVi5g8eI&list=PLKFaWBYMOdDtIGnRBFSgjWwrkaqP3XZ5M&index=1)
 - Thursday November 19th 11am Central Time (CST) on [KEDA](https://youtu.be/Z_n-FrOx7gY?list=PLKFaWBYMOdDtIGnRBFSgjWwrkaqP3XZ5M)
 - Thursday November 5th 11am Central Time (CST) on [AKS Advanced Networking](https://youtu.be/8YT1m24PoW4)\
