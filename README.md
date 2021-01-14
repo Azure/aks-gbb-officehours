@@ -41,7 +41,7 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 - Thursday June 17th 11am Central Time (CST) - TBD 
 
 **Past Meetings**: 
-- Thursday January 14th 11am Central Time (CST) - [Quick AKS and ecosystem updates- Link to deck](https://github.com/Azure/aks-gbb-officehours/blob/main/Presentations/Jan14thUpdates.pptx)
+- Thursday January 14th 11am Central Time (CST) - [Quick AKS and ecosystem updates- Link to deck](https://github.com/Azure/aks-gbb-officehours/raw/main/Presentations/Jan14thUpdates.pptx)
 - Thursday December 17th 11am Central Time (CST)- AKS GBB discussion panel
 - Thursday December 3rd 11am Central Time (CST) on [GitOps](https://www.youtube.com/watch?v=APooVi5g8eI&list=PLKFaWBYMOdDtIGnRBFSgjWwrkaqP3XZ5M&index=1)
 - Thursday November 19th 11am Central Time (CST) on [KEDA](https://youtu.be/Z_n-FrOx7gY?list=PLKFaWBYMOdDtIGnRBFSgjWwrkaqP3XZ5M)
