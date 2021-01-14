@@ -28,8 +28,6 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 ## Schedule 
 
 **2021 Upcoming Meetings**:
-
-- Thursday January 14th 11am Central Time (CST) - Open discussion regarding content and topics for the year hosted by Dave and Kendall
 - Thursday January 28th 11am Central Time (CST) - Application Gateway Ingress Controller for AKS
 - Thursday February 11th 11am Central Time (CST) - AAD Pod Identity Deep Dive 
 - Thursday February 25th 11am Central Time (CST) - TBD
@@ -43,6 +41,7 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 - Thursday June 17th 11am Central Time (CST) - TBD 
 
 **Past Meetings**: 
+- Thursday January 14th 11am Central Time (CST) - [Quick AKS and ecosystem updates- Link to deck]()
 - Thursday December 17th 11am Central Time (CST)- AKS GBB discussion panel
 - Thursday December 3rd 11am Central Time (CST) on [GitOps](https://www.youtube.com/watch?v=APooVi5g8eI&list=PLKFaWBYMOdDtIGnRBFSgjWwrkaqP3XZ5M&index=1)
 - Thursday November 19th 11am Central Time (CST) on [KEDA](https://youtu.be/Z_n-FrOx7gY?list=PLKFaWBYMOdDtIGnRBFSgjWwrkaqP3XZ5M)
