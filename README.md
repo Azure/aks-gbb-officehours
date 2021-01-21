@@ -13,7 +13,7 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 | 🔗 Meeting Link | **Teams Call:** https://aka.ms/joinaksofficehours
 | 📝 Meeting Presentations | [View](https://github.com/Azure/aks-gbb-officehours/tree/main/Presentations)
 | 🎥 Meeting Recordings | http://aka.ms/aksofficehours-recordings
-| :calendar: Calendar invite | [Download](https://aksofficehours.blob.core.windows.net/calendar-invites-2021/Microsoft%20AKS%20Public%20Office%20Hours.ics?sp=r&st=2021-01-14T17:45:48Z&se=2021-08-01T00:45:48Z&spr=https&sv=2019-12-12&sr=b&sig=WfguBZ9ZHMf87V05uMx5JTBG7h%2BohjZ%2B9HnHO9fwDu8%3D)
+| :calendar: Calendar invite | [Download](https://aksofficehours.blob.core.windows.net/calendar-invites-2021/Microsoft%20AKS%20Public%20Office%20Hours.ics?sp=r&st=2021-01-21T16:46:05Z&se=2021-12-03T00:46:05Z&spr=https&sv=2019-12-12&sr=b&sig=c1SKYVk3pkCn1Z%2FJvwxPSuhusvsyRC6c9eqDO4CNieQ%3D)
 | :email: Email invite template | [Windows Download](https://aksofficehours.blob.core.windows.net/calendar-invites-2021/You're%20invited%20to%20AKS%20Public%20Office%20Hours!%20.msg?sp=r&st=2021-01-14T17:46:53Z&se=2021-08-01T00:46:53Z&spr=https&sv=2019-12-12&sr=b&sig=RFLG3wVSiXugJ4qipmOc5SZiMEVlKxTy0Cm1frZE8Qk%3D), [Mac Download](https://aksofficehours.blob.core.windows.net/calendar-invites-2021/You're%20invited%20to%20AKS%20Public%20Office%20Hours!.emltpl?sp=r&st=2021-01-14T17:47:40Z&se=2021-08-01T00:47:40Z&spr=https&sv=2019-12-12&sr=b&sig=OdHznGm1sk4L1wijYB7udW8OfPLHPC9oF5kgGEpsxow%3D)
 
 **NOTE**: If you are using Outlook for Mac, you may have trouble adding the invite to your calendar. In order to avoid issues, follow the steps below: 
