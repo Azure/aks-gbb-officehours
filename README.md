@@ -28,7 +28,7 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 ## Schedule 
 
 **2021 Upcoming Meetings**:
-- Thursday February 11th 11am Central Time (CST) - TBD 
+- Thursday February 11th 11am Central Time (CST) - Service Mesh Discussion with Dave and Kendall 
 - Thursday February 25th 11am Central Time (CST) - TBD
 - Thursday March 11th 11am Central Time (CST) - TBD 
 - Thursday March 25th 11am Central Time (CST) - TBD 
