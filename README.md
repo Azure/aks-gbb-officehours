@@ -39,7 +39,7 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 - Thursday June 17th 11am Central Time (CST) - TBD 
 
 **Past Meetings**: 
-- Thursday February 11th 11am Central Time (CST) - [Service Mesh Discussion](https://youtu.be/3Y66q_AgtvY), [Links](https://github.com/Azure/aks-gbb-officehours/blob/main/Resources.md#open-source-and-ecosystem-callouts-2112021)
+- Thursday February 11th 11am Central Time (CST) - [Service Mesh Discussion Recording](https://youtu.be/3Y66q_AgtvY), [Resource Links](https://github.com/Azure/aks-gbb-officehours/blob/main/Resources.md#open-source-and-ecosystem-callouts-2112021)
 - Thursday January 28th 11am Central Time (CST) - [Application Gateway Ingress Controller for AKS](https://youtu.be/ybJY5_U5sdg?list=PLKFaWBYMOdDtIGnRBFSgjWwrkaqP3XZ5M)
 - Thursday January 14th 11am Central Time (CST) - [Quick AKS and ecosystem updates- Link to deck](https://github.com/Azure/aks-gbb-officehours/raw/main/Presentations/Jan14thUpdates.pptx)
 - Thursday December 17th 11am Central Time (CST)- AKS GBB discussion panel
