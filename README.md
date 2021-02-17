@@ -31,7 +31,7 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 - Thursday February 25th 11am Central Time (CST) - **BYO Private Zones for Private Cluster with Steve Griffith, Technical Specialist Cloud Native GBB**
 - Thursday March 11th 11am Central Time (CST) - **AKS Roadmap Call with Azure Kubernetes Service Product Group**  
 - Thursday March 25th 11am Central Time (CST) - **Dapr on Kubernetes with Kendall Roden, Technical Specialist Cloud Native GBB**
-- Thursday April 8th 11am Central Time (CST) - TBD 
+- Thursday April 8th 11am Central Time (CST) - **Bridge to Kubernetes with Senior Program Manager, Nick Greenfield**  
 - Thursday April 22nd 11am Central Time (CST) - TBD 
 - Thursday May 6th 11am Central Time (CST) - Roadmap Call with Azure Kubernetes Service Product Team  
 - Thursday May 20th 11am Central Time (CST) - TBD 
