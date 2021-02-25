@@ -45,7 +45,7 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 - Thursday December 17th 11am Central Time (CST)- AKS GBB discussion panel
 - Thursday December 3rd 11am Central Time (CST) on [GitOps](https://www.youtube.com/watch?v=APooVi5g8eI&list=PLKFaWBYMOdDtIGnRBFSgjWwrkaqP3XZ5M&index=1)
 - Thursday November 19th 11am Central Time (CST) on [KEDA](https://youtu.be/Z_n-FrOx7gY?list=PLKFaWBYMOdDtIGnRBFSgjWwrkaqP3XZ5M)
-- Thursday November 5th 11am Central Time (CST) on [AKS Advanced Networking](https://youtu.be/8YT1m24PoW4), [Resource Links](https://github.com/Azure/aks-gbb-officehours/blob/main/Resources.md#advanced-networking-115-call) page
+- Thursday November 5th 11am Central Time (CST) on [AKS Advanced Networking](https://youtu.be/8YT1m24PoW4), [Resource Links](https://github.com/Azure/aks-gbb-officehours/blob/main/Resources.md#advanced-networking-115-call)
 - Thursday October 22nd 11am Central Time (CST) on [Microsoft's OSS Strategy & Contributions](https://youtu.be/rgSm-EUfQ3A?list=PLKFaWBYMOdDtIGnRBFSgjWwrkaqP3XZ5M)
 - Thursday October 8th 11am Central Time (CST) on [Azure Policy for AKS](https://youtu.be/aFogd3aGxVI)
 - Thursday September 24th 11am Central Time (CST) on [AAD-Enabled Clusters](https://youtu.be/2s19zk_Z4DQ)
