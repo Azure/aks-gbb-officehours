@@ -1,4 +1,4 @@
-# Session Resources (Referenced on Office Hour calls) 
+# Session Resource
 
 ## General product 
 - [AKS Roadmap](https://github.com/Azure/AKS/projects/1)
@@ -19,7 +19,7 @@
 - [BYO Private Zone Demo Content and Links](https://github.com/swgriffith/azure-guides/tree/master/dns)
 
 
-# Resources related to Open Source and Ecosystem
+# Open Source and Ecosystem Update Links
 
 ## Open Source and Ecosystem Callouts (2/11/2021)
 - [Kubernetes Network Policy Editor by Cilium](https://editor.cilium.io)
