@@ -15,6 +15,11 @@
 - [AKS Networking Part II](https://blog.stevegriffith.nyc/posts/aks-networking-part2)
 - [AKS Networking IP Tables](https://blog.stevegriffith.nyc/posts/aks-networking-iptables)
 
+## BYO Private Zone (2/25/2021) 
+- [BYO Private Zone Demo Content and Links](https://github.com/swgriffith/azure-guides/tree/master/dns)
+
+# Resources related to Open Source and Ecosystem
+
 ## Open Source and Ecosystem Callouts (2/11/2021)
 - [Kubernetes Network Policy Editor by Cilium](https://editor.cilium.io)
 - [KubeEdge The Most Insane Open Source Project of 2020](https://medium.com/the-programming-hub/kubeedge-the-most-insane-open-source-project-of-2020-905c6ced42c7)
@@ -25,7 +30,7 @@
 - [K8s 1.20 release webinar](https://community.cncf.io/events/details/cncf-cncf-online-programs-presents-cncf-live-webinar-kubernetes-120/)
 - [Reminder: v1beta1 versions going away in 1.22: CRD and AdmissionWebhookConfiguration](https://groups.google.com/g/kubernetes-dev/c/z_AE1EHhZF4)
 
-## Open Source and Ecosystem Callouts (2/25/2020) 
+## Open Source and Ecosystem Callouts (2/25/2021) 
 - [AKS Release 02-15](https://github.com/Azure/AKS/releases/tag/2021-02-15)
 - [General Availability: Azure Red Hat OpenShift support for OpenShift 4.6](https://azure.microsoft.com/en-us/updates/general-availability-azure-red-hat-openshift-support-for-openshift-46/)
 - [AKS Legacy AAD integration by Feb 29th 2024](https://azure.microsoft.com/en-ca/updates/aks-legacy-azure-ad-integration-will-be-retired-on-29-february-2024/)
