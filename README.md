@@ -28,7 +28,6 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 ## Schedule 
 
 **2021 Upcoming Meetings**:
-- Thursday February 25th 11am Central Time (CST) - **BYO Private Zones for Private Cluster with Steve Griffith, Technical Specialist Cloud Native GBB**
 - Thursday March 11th 11am Central Time (CST) - **AKS Roadmap Call with Azure Kubernetes Service Product Group**  
 - Thursday March 25th 11am Central Time (CST) - **Dapr on Kubernetes with Kendall Roden, Technical Specialist Cloud Native GBB**
 - Thursday April 8th 11am Central Time (CST) - **Bridge to Kubernetes with Senior Program Manager, Nick Greenfield**  
@@ -39,14 +38,14 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 - Thursday June 17th 11am Central Time (CST) - TBD 
 
 **Past Meetings**: 
+- Thursday February 25th 11am Central Time (CST) - [BYO Private DNS Zone Recording](), [Update and Session Links](https://github.com/Azure/aks-gbb-officehours/blob/main/Resources.md)
 - Thursday February 11th 11am Central Time (CST) - [Service Mesh Discussion Recording](https://youtu.be/3Y66q_AgtvY), [Resource Links](https://github.com/Azure/aks-gbb-officehours/blob/main/Resources.md#open-source-and-ecosystem-callouts-2112021)
 - Thursday January 28th 11am Central Time (CST) - [Application Gateway Ingress Controller for AKS](https://youtu.be/ybJY5_U5sdg?list=PLKFaWBYMOdDtIGnRBFSgjWwrkaqP3XZ5M)
 - Thursday January 14th 11am Central Time (CST) - [Quick AKS and ecosystem updates- Link to deck](https://github.com/Azure/aks-gbb-officehours/raw/main/Presentations/Jan14thUpdates.pptx)
 - Thursday December 17th 11am Central Time (CST)- AKS GBB discussion panel
 - Thursday December 3rd 11am Central Time (CST) on [GitOps](https://www.youtube.com/watch?v=APooVi5g8eI&list=PLKFaWBYMOdDtIGnRBFSgjWwrkaqP3XZ5M&index=1)
 - Thursday November 19th 11am Central Time (CST) on [KEDA](https://youtu.be/Z_n-FrOx7gY?list=PLKFaWBYMOdDtIGnRBFSgjWwrkaqP3XZ5M)
-- Thursday November 5th 11am Central Time (CST) on [AKS Advanced Networking](https://youtu.be/8YT1m24PoW4)\
-Content referenced can be found on [resources](https://github.com/Azure/aks-gbb-officehours/blob/main/Resources.md#advanced-networking-115-call) page
+- Thursday November 5th 11am Central Time (CST) on [AKS Advanced Networking](https://youtu.be/8YT1m24PoW4), [Resource Links](https://github.com/Azure/aks-gbb-officehours/blob/main/Resources.md#advanced-networking-115-call) page
 - Thursday October 22nd 11am Central Time (CST) on [Microsoft's OSS Strategy & Contributions](https://youtu.be/rgSm-EUfQ3A?list=PLKFaWBYMOdDtIGnRBFSgjWwrkaqP3XZ5M)
 - Thursday October 8th 11am Central Time (CST) on [Azure Policy for AKS](https://youtu.be/aFogd3aGxVI)
 - Thursday September 24th 11am Central Time (CST) on [AAD-Enabled Clusters](https://youtu.be/2s19zk_Z4DQ)
