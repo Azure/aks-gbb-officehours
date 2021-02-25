@@ -1,4 +1,4 @@
-# Resources for AKS (Referenced on Office Hour calls) 
+# Session Resources (Referenced on Office Hour calls) 
 
 ## General product 
 - [AKS Roadmap](https://github.com/Azure/AKS/projects/1)
@@ -17,6 +17,7 @@
 
 ## BYO Private Zone (2/25/2021) 
 - [BYO Private Zone Demo Content and Links](https://github.com/swgriffith/azure-guides/tree/master/dns)
+
 
 # Resources related to Open Source and Ecosystem
 
