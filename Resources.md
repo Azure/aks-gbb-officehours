@@ -1,4 +1,4 @@
-# Session Resource
+# Session Resources
 
 ## General product 
 - [AKS Roadmap](https://github.com/Azure/AKS/projects/1)
