@@ -28,7 +28,6 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 ## Schedule 
 
 **2021 Upcoming Meetings**:
-- Thursday March 25th 11am Central Time (CST) - **Dapr on Kubernetes with Kendall Roden, Technical Specialist Cloud Native GBB**
 - Thursday April 8th 11am Central Time (CST) - **Bridge to Kubernetes with Senior Program Manager, Nick Greenfield**  
 - Thursday April 22nd 11am Central Time (CST) - TBD 
 - Thursday May 6th 11am Central Time (CST) - Roadmap Call with Azure Kubernetes Service Product Team  
@@ -37,6 +36,7 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 - Thursday June 17th 11am Central Time (CST) - TBD 
 
 **Past Meetings**: 
+- Thursday March 25th 11am Central Time (CST) - **Dapr on Kubernetes with Kendall Roden, Technical Specialist Cloud Native GBB**
 - Thursday March 11th 11am Central Time (CST) - [**AKS Roadmap Call with Azure Kubernetes Service Product Group**](https://youtu.be/fy76498bhYU)
 - Thursday February 25th 11am Central Time (CST) - [BYO Private DNS Zone Recording](https://www.youtube.com/watch?v=8Q2olWtNHBw), [Resource Links](https://github.com/Azure/aks-gbb-officehours/blob/main/Resources.md)
 - Thursday February 11th 11am Central Time (CST) - [Service Mesh Discussion Recording](https://youtu.be/3Y66q_AgtvY), [Resource Links](https://github.com/Azure/aks-gbb-officehours/blob/main/Resources.md#open-source-and-ecosystem-callouts-2112021)
