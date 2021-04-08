@@ -35,7 +35,7 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 - Thursday June 17th 11am Central Time (CST) - TBD 
 
 **Past Meetings**: 
-- Thursday April 8th 11am Central Time (CST) - Bridge to Kubernetes
+- Thursday April 8th 11am Central Time (CST) - [Bridge to Kubernetes](https://www.youtube.com/watch?v=ayziamboWlo)
 - Thursday March 25th 11am Central Time (CST) - Dapr on Kubernetes (Recording issue) 
 - Thursday March 11th 11am Central Time (CST) - [**AKS Roadmap Call with Azure Kubernetes Service Product Group**](https://youtu.be/fy76498bhYU)
 - Thursday February 25th 11am Central Time (CST) - [BYO Private DNS Zone Recording](https://www.youtube.com/watch?v=8Q2olWtNHBw), [Resource Links](https://github.com/Azure/aks-gbb-officehours/blob/main/Resources.md)
