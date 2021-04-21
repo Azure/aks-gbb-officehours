@@ -30,8 +30,8 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 **2021 Upcoming Meetings**:
 - Thursday April 22nd 11am Central Time (CST) - Open Service Mesh Add-on for AKS 
 - Thursday May 6th 11am Central Time (CST) - Roadmap Call with Azure Kubernetes Service Product Team  
-- Thursday May 20th 11am Central Time (CST) - TBD 
-- Thursday June 3rd 11am Central Time (CST) - Roadmap Call with Azure Kubernetes Service Product Team  
+- Thursday May 20th 11am Central Time (CST) - AKS and Terraform 
+- Thursday June 3rd 11am Central Time (CST) - TBD  
 - Thursday June 17th 11am Central Time (CST) - TBD 
 
 **Past Meetings**: 
