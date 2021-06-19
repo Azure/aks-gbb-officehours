@@ -31,7 +31,7 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 - ~~Thursday May 6th 11am Central Time (CST) - Cancelling due to KubeCon~~
 - Thursday May 20th 11am Central Time (CST) - Roadmap Call with Azure Kubernetes Service Product Team  
 - Thursday June 3rd 11am Central Time (CST) - AKS with Terraform
-- Thursday June 17th 11am Central Time (CST) - TBD 
+- Thursday June 17th 11am Central Time (CST) - CI/CD With GitHub Actions
 
 **Past Meetings**: 
 - Thursday April 22nd 11am Central Time (CST) - [Open Service Mesh Add-on for AKS](https://youtu.be/xrCkX4CEtuw)
