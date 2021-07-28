@@ -28,15 +28,15 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 ## Schedule 
 
 **2021 Upcoming Meetings**:
-- Thursday July 1st 11 am Central Time (CST) - Cancelled for July 4th Holiday
-- Thursday July 15th 11 am Central Time (CST) - Azure Arc for Kubernetes 
-- Thursday July 29th 11 am Central Time (CST) - TBD
+- Thursday July 29th 11 am Central Time (CST) - Cloud Native Updates and Cloud Native Open Q&A/Roundtable 
 - Thursday August 12th 11 am Central Time (CST) - TBD
 - Thursday August 26th 11 am Central Time (CST) - TBD
 - Thursday September 9th 11 am Central Time (CST) - TBD
 - Thursday September 23rd 11 am Central Time (CST) - TBD
 - 
 **Past Meetings**: 
+- Thursday July 15th 11 am Central Time (CST) - Azure Arc for Kubernetes 
+- ~~Thursday July 1st 11 am Central Time (CST) - Cancelled for July 4th Holiday~~
 - Thursday June 17th 11am Central Time (CST) - [CI/CD With GitHub Actions](https://youtu.be/70KVKetn4dM)
 - Thursday June 3rd 11am Central Time (CST) - [AKS with Terraform](https://youtu.be/lRmPWQOJGUM)
 - Thursday May 20th 11am Central Time (CST) - [**AKS Roadmap Call with Azure Kubernetes Service Product Team**](https://youtu.be/Xt6gnBPqLV4)
