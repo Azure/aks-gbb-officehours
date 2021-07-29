@@ -32,7 +32,7 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 - Thursday August 26th 11 am Central Time (CST) - Azure Security Center for AKS 
 - Thursday September 9th 11 am Central Time (CST) - TBD
 - Thursday September 23rd 11 am Central Time (CST) - TBD
-- 
+
 **Past Meetings**: 
 - Thursday July 15th 11 am Central Time (CST) - Azure Arc for Kubernetes 
 - ~~Thursday July 1st 11 am Central Time (CST) - Cancelled for July 4th Holiday~~
