@@ -27,13 +27,13 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 ## Schedule 
 
 **2021 Upcoming Meetings**:
-- Thursday July 29th 11 am Central Time (CST) - Cloud Native Updates and Cloud Native Open Q&A/Roundtable 
-- Thursday August 12th 11 am Central Time (CST) - Azure Application Services (Cloud Native apps that run anywhere!)
-- Thursday August 26th 11 am Central Time (CST) - Azure Security Center for AKS 
+- Thursday August 26th 11 am Central Time (CST) - TBD
 - Thursday September 9th 11 am Central Time (CST) - TBD
 - Thursday September 23rd 11 am Central Time (CST) - TBD
 
 **Past Meetings**: 
+- Thursday August 12th 11 am Central Time (CST) - Azure Application Services (Cloud Native apps that run anywhere!)
+- Thursday July 29th 11 am Central Time (CST) - Cloud Native Updates and Cloud Native Open Q&A/Roundtable 
 - Thursday July 15th 11 am Central Time (CST) - Azure Arc for Kubernetes 
 - ~~Thursday July 1st 11 am Central Time (CST) - Cancelled for July 4th Holiday~~
 - Thursday June 17th 11am Central Time (CST) - [CI/CD With GitHub Actions](https://youtu.be/70KVKetn4dM)
