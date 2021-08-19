@@ -27,7 +27,7 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 ## Schedule 
 
 **2021 Upcoming Meetings**:
-- Thursday August 26th 11 am Central Time (CST) - TBD
+- Thursday August 26th 11 am Central Time (CST) - Roadmap call with Azure Kubernetes Service Team. Bring your questions! 
 - Thursday September 9th 11 am Central Time (CST) - TBD
 - Thursday September 23rd 11 am Central Time (CST) - TBD
 
