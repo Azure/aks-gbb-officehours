@@ -36,7 +36,7 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 - Thursday August 26th 11 am Central Time (CST) - [Roadmap call with Azure Kubernetes Service Team](https://youtu.be/bqn87cySRG0)
 - Thursday August 12th 11 am Central Time (CST) - [Azure Application Services (Cloud Native apps that run anywhere!)](https://youtu.be/sBpUqV5_-Ps)
 - Thursday July 29th 11 am Central Time (CST) - Cloud Native Updates and Cloud Native Open Q&A/Roundtable (not recorded) 
-- Thursday July 15th 11 am Central Time (CST) - Azure Arc for Kubernetes 
+- Thursday July 15th 11 am Central Time (CST) - [Azure Arc for Kubernetes](https://youtu.be/bqn87cySRG0)
 - ~~Thursday July 1st 11 am Central Time (CST) - Cancelled for July 4th Holiday~~
 - Thursday June 17th 11am Central Time (CST) - [CI/CD With GitHub Actions](https://youtu.be/70KVKetn4dM)
 - Thursday June 3rd 11am Central Time (CST) - [AKS with Terraform](https://youtu.be/lRmPWQOJGUM)
