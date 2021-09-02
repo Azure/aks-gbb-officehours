@@ -13,7 +13,7 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 | 🔗 Meeting Link | **Teams Call:** https://aka.ms/joinaksofficehours
 | 📝 Meeting Presentations | [View](https://github.com/Azure/aks-gbb-officehours/tree/main/Presentations)
 | 🎥 Meeting Recordings | http://aka.ms/aksofficehours-recordings
-| :calendar: Calendar invite | [Download](https://ohcontent.blob.core.windows.net/calendardownload/Microsoft%20AKS%20Office%20Hours.ics?sp=r&st=2021-07-29T15:30:54Z&se=2022-07-28T23:30:54Z&spr=https&sv=2020-08-04&sr=b&sig=XUYul0jcxE7Ll8AG8%2BOTWHWqIYeZrjt%2BpofivlQUeiQ%3D)
+| :calendar: Calendar invite | [Download](https://1drv.ms/u/s!AijpyBD4mDldb1Gt9Xbe5N_taLg)
 
 **NOTE**: If you are using Outlook for Mac, you may have trouble adding the invite to your calendar. In order to avoid issues, follow the steps below: 
 1. Download the .ics file 
