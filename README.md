@@ -33,8 +33,8 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 - Thursday October 7th 11 am Central Time (CST) - Windows Container deep dive on AKS 
 
 **Past Meetings**: 
-- Thursday August 26th 11 am Central Time (CST) - Roadmap call with Azure Kubernetes Service Team. Bring your questions! 
-- Thursday August 12th 11 am Central Time (CST) - Azure Application Services (Cloud Native apps that run anywhere!)
+- Thursday August 26th 11 am Central Time (CST) - [Roadmap call with Azure Kubernetes Service Team](https://youtu.be/bqn87cySRG0)
+- Thursday August 12th 11 am Central Time (CST) - [Azure Application Services (Cloud Native apps that run anywhere!)](https://youtu.be/sBpUqV5_-Ps)
 - Thursday July 29th 11 am Central Time (CST) - Cloud Native Updates and Cloud Native Open Q&A/Roundtable (not recorded) 
 - Thursday July 15th 11 am Central Time (CST) - Azure Arc for Kubernetes 
 - ~~Thursday July 1st 11 am Central Time (CST) - Cancelled for July 4th Holiday~~
