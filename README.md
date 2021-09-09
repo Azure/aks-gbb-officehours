@@ -29,7 +29,7 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 **2021 Upcoming Meetings**:
 
 - Thursday September 9th 11 am Central Time (CST) - Canceled
-- Thursday September 23rd 11 am Central Time (CST) - BoatBox AKS Health Check
+- Thursday September 23rd 11 am Central Time (CST) - BoxBoat AKS Health Check
 - Thursday October 7th 11 am Central Time (CST) - Windows Container deep dive on AKS 
 
 **Past Meetings**: 
