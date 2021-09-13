@@ -27,12 +27,11 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 ## Schedule 
 
 **2021 Upcoming Meetings**:
-
-- Thursday September 9th 11 am Central Time (CST) - Canceled
-- Thursday September 23rd 11 am Central Time (CST) - BoatBox AKS Health Check
+- Thursday September 23rd 11 am Central Time (CST) - BoxBoat AKS Health Check
 - Thursday October 7th 11 am Central Time (CST) - Windows Container deep dive on AKS 
 
 **Past Meetings**: 
+- ~~Thursday September 9th 11 am Central Time (CST) - Cancelled~~
 - Thursday August 26th 11 am Central Time (CST) - [Roadmap call with Azure Kubernetes Service Team](https://youtu.be/bqn87cySRG0)
 - Thursday August 12th 11 am Central Time (CST) - [Azure Application Services (Cloud Native apps that run anywhere!)](https://youtu.be/sBpUqV5_-Ps)
 - Thursday July 29th 11 am Central Time (CST) - Cloud Native Updates and Cloud Native Open Q&A/Roundtable (not recorded) 
