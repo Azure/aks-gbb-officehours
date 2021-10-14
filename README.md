@@ -27,9 +27,14 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 ## Schedule 
 
 **2021 Upcoming Meetings**:
-- Thursday October 7th 11 am Central Time (CST) - Windows Container deep dive on AKS 
+- Thursday October 21th 11 am Central Time (CST) - TBD
+- Thursday November 4th 11 am Central Time (CST) - Azure Security Center integration with AKS 
+- Thursday November 18th 11 am Central Time (CST) - TBD
+- Thursday December 2nd 11 am Central Time (CST) - TBD
+- Thursday December 16th 11 am Central Time (CST) - TBD
 
 **Past Meetings**: 
+- Thursday October 7th 11 am Central Time (CST) - Windows Container deep dive on AKS()
 - Thursday September 23rd 11 am Central Time (CST) - BoxBoat AKS Health Check
 - ~~Thursday September 9th 11 am Central Time (CST) - Cancelled~~
 - Thursday August 26th 11 am Central Time (CST) - [Roadmap call with Azure Kubernetes Service Team](https://youtu.be/bqn87cySRG0)
