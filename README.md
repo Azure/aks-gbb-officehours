@@ -27,7 +27,7 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 ## Schedule 
 
 **2021 Upcoming Meetings**:
-- Thursday October 21th 11 am Central Time (CST) - TBD
+- Thursday October 21th 11 am Central Time (CST) - Calico Network Policy in AKS 
 - Thursday November 4th 11 am Central Time (CST) - Tenative: Microsoft Ignite debrief
 - Thursday November 18th 11 am Central Time (CST) - TBD
 - Thursday December 2nd 11 am Central Time (CST) - TBD
