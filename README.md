@@ -27,13 +27,13 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 ## Schedule 
 
 **2021 Upcoming Meetings**:
-- Thursday October 21th 11 am Central Time (CST) - Calico Network Policy in AKS 
-- Thursday November 4th 11 am Central Time (CST) - Cancelled: Due to Ignite this week
 - Thursday November 18th 11 am Central Time (CST) - Open Service Mesh On AKS - OSM PG
-- Thursday December 2nd 11 am Central Time (CST) - Azure Container Apps
+- Thursday December 2nd 11 am Central Time (CST) - TBD
 - Thursday December 16th 11 am Central Time (CST) - Azure Security Center integration with AKS 
 
 **Past Meetings**: 
+- Thursday November 4th 11 am Central Time (CST) - Cancelled: Due to Ignite this week
+- Thursday October 21th 11 am Central Time (CST) - Calico Network Policy in AKS
 - Thursday October 7th 11 am Central Time (CST) - [Windows Container deep dive on AKS](https://youtu.be/rpgPWWNOU4Y)
 - Thursday September 23rd 11 am Central Time (CST) - [BoxBoat AKS Health Check](https://youtu.be/8Mjq2VtAw2g)
 - ~~Thursday September 9th 11 am Central Time (CST) - Cancelled~~
