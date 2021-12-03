@@ -27,10 +27,17 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 ## Schedule 
 
 **2021 Upcoming Meetings**:
-- Thursday December 2nd 11 am Central Time (CST) - Linkerd with Buoyant
+- Thursday January 13th 11 am Central Time (CST) - AKS Roadmap Update with AKS PG
+- Thursday January 27th 11 am Central Time (CST) - Azure Container Apps with Container Apps PG 
+- Thursday February 10th 11 am Central Time (CST) - Azure Load Testing with AKS
+- Thursday February 24th 11 am Central Time (CST) - TBD
+
+
+**2022 Upcoming Meetings**:
 - Thursday December 16th 11 am Central Time (CST) - Azure Security Center integration with AKS 
 
 **Past Meetings**: 
+- Thursday December 2nd 11 am Central Time (CST) - Linkerd with Buoyant
 - Thursday November 18th 11 am Central Time (CST) - Open Discussion
 - ~~Thursday November 4th 11 am Central Time (CST) - Cancelled for Ignite~~
 - Thursday October 21th 11 am Central Time (CST) - Calico Network Policy in AKS
