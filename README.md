@@ -34,7 +34,7 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 
 
 **2022 Upcoming Meetings**:
-- Thursday December 16th 11 am Central Time (CST) - Azure Security Center integration with AKS 
+- Thursday December 16th 11 am Central Time (CST) - Microsoft Defender for Containers on AKS 
 
 **Past Meetings**: 
 - Thursday December 2nd 11 am Central Time (CST) - Linkerd with Buoyant
