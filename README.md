@@ -33,9 +33,9 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 - Thursday February 24th 11 am Central Time (CST) - TBD
 
 **Past Meetings**: 
-- Thursday December 16th 11 am Central Time (CST) - Microsoft Defender for Containers on AKS 
-- Thursday December 2nd 11 am Central Time (CST) - Linkerd with Buoyant
-- Thursday November 18th 11 am Central Time (CST) - Open Discussion
+- [Thursday December 16th 11 am Central Time (CST) - Microsoft Defender for Containers on AKS](https://youtu.be/Pdz2zKTaOv0)
+- [Thursday December 2nd 11 am Central Time (CST) - Linkerd with Buoyant](https://youtu.be/_zrVOa_ata8)
+- [Thursday November 18th 11 am Central Time (CST) - Open Discussion](https://youtu.be/Z65x_1vkykk)
 - ~~Thursday November 4th 11 am Central Time (CST) - Cancelled for Ignite~~
 - Thursday October 21th 11 am Central Time (CST) - Calico Network Policy in AKS
 - Thursday October 7th 11 am Central Time (CST) - [Windows Container deep dive on AKS](https://youtu.be/rpgPWWNOU4Y)
