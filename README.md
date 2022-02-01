@@ -29,7 +29,7 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 **2022 Upcoming Meetings**:
 
 - ~~Thursday January 27th 11 am Central Time (CST) - Azure Container Apps with Container Apps PG~~ RESCHEDULE DUE TO ILLNESS
-- Thursday February 10th 11 am Central Time (CST) - Azure Load Testing with AKS
+- Thursday February 10th 11 am Central Time (CST) - TBD
 - Thursday February 24th 11 am Central Time (CST) - TBD
 
 **Past Meetings**: 
