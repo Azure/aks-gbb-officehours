@@ -45,7 +45,7 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 
 **Past Meetings**: 
 - ~~Thursday January 27th 11 am Central Time (CST) - Azure Container Apps with Container Apps PG~~ RESCHEDULE DUE TO ILLNESS
-- Thursday January 13th 11 am Central Time (CST) - [AKS Roadmap Update with AKS PG](https://youtu.be/-1o6qC0FbpM)
+- Thursday January 13th 11 am Central Time (CST) - [**AKS Roadmap Update with AKS PG**](https://youtu.be/-1o6qC0FbpM)
 - Thursday December 16th 11 am Central Time (CST) - [Microsoft Defender for Containers on AKS](https://youtu.be/Pdz2zKTaOv0)
 - Thursday December 2nd 11 am Central Time (CST) - [Linkerd with Buoyant](https://youtu.be/_zrVOa_ata8)
 - Thursday November 18th 11 am Central Time (CST) - [Open Discussion](https://youtu.be/Z65x_1vkykk)
