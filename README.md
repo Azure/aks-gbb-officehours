@@ -28,10 +28,10 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 
 **2022 Upcoming Meetings**:
 
-- Thursday February 10th 11 am Central Time (CST) - GBB led discussion
+- Thursday February 10th 11 am Central Time (CST) - Azure Chaos Studio
 - Thursday February 24th 11 am Central Time (CST) - Azure Container Apps with PG 
 - Thursday March 10th 11 am Central Time (CST) - Azure Load Testing on AKS
-- Thursday March 24th 11 am Central Time (CST) - TBD
+- Thursday March 24th 11 am Central Time (CST) - Workload Identity
 - Thursday April 7th 11 am Central Time (CST) - AKS Roadmap Update with AKS PG
 - Thursday April 21st 11 am Central Time (CST) - AKS Security Update with AKS PG
 - Thursday May 5th 11 am Central Time (CST) - TBD
