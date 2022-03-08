@@ -29,7 +29,7 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 **2022 Upcoming Meetings**:
 
 
-- Thursday March 10th 11 am Central Time (CST) - TBD
+- Thursday March 10th 11 am Central Time (CST) - OOF Cancellation
 - Thursday March 24th 11 am Central Time (CST) - Workload Identity
 - Thursday April 7th 11 am Central Time (CST) - AKS Roadmap Update with AKS PG
 - Thursday April 21st 11 am Central Time (CST) - AKS Security Update with AKS PG
