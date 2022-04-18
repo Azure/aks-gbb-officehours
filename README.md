@@ -27,22 +27,20 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 ## Schedule 
 
 **2022 Upcoming Meetings**:
-
-
-- Thursday March 10th 11 am Central Time (CST) - OOF Cancellation
-- Thursday March 24th 11 am Central Time (CST) - Workload Identity
-- Thursday April 7th 11 am Central Time (CST) - Scheduling Cancellation
 - Thursday April 21st 11 am Central Time (CST) - AKS Roadmap Update with AKS PG: Multi-cluster, Multi-tenancy & Networking
 - Thursday May 5th 11 am Central Time (CST) - AKS Security Update with AKS PG
 - Thursday May 19th 11 am Central Time (CST) - Tigera Calico CNI=none session
-- Thursday June 2nd 11 am Central Time (CST) - GitOps in Azure: FluxV2 Extension & Azure Arc Capabilities
-- Thursday June 16th 11 am Central Time (CST) - TBD
+- Thursday June 2nd 11 am Central Time (CST) - TBD
+- Thursday June 16th 11 am Central Time (CST) - GitOps in Azure: FluxV2 Extension & Azure Arc Capabilities
 - Thursday June 30th 11 am Central Time (CST) - AKS Roadmap Update with AKS PG
 - Thursday July 14th 11 am Central Time (CST) - AKS Security Update with AKS PG
 - Thursday July 28th 11 am Central Time (CST) - TBD
 - Thursday August 11th 11 am Central Time (CST) - TBD
 
 **Past Meetings**: 
+- Thursday April 7th 11 am Central Time (CST) - Scheduling Cancellation
+- Thursday March 24th 11 am Central Time (CST) - Workload Identity
+- Thursday March 10th 11 am Central Time (CST) - OOF Cancellation
 - Thursday February 24th 11 am Central Time (CST) - Azure Container Apps with PG 
 - ~~Thursday February 10th 11 am Central Time (CST) - Cancelled 
 - ~~Thursday January 27th 11 am Central Time (CST) - Azure Container Apps with Container Apps PG~~ RESCHEDULE DUE TO ILLNESS
