@@ -39,9 +39,9 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 
 **Past Meetings**: 
 - Thursday April 7th 11 am Central Time (CST) - Scheduling Cancellation
-- Thursday March 24th 11 am Central Time (CST) - Workload Identity
+- Thursday March 24th 11 am Central Time (CST) - [Azure AD Workload Identity](https://youtu.be/FKQG3RjFbfU)
 - Thursday March 10th 11 am Central Time (CST) - OOF Cancellation
-- Thursday February 24th 11 am Central Time (CST) - Azure Container Apps with PG 
+- Thursday February 24th 11 am Central Time (CST) - [Azure Container Apps with PG](https://youtu.be/rFXfB4aruBs)
 - ~~Thursday February 10th 11 am Central Time (CST) - Cancelled 
 - ~~Thursday January 27th 11 am Central Time (CST) - Azure Container Apps with Container Apps PG~~ RESCHEDULE DUE TO ILLNESS
 - Thursday January 13th 11 am Central Time (CST) - [**AKS Roadmap Update with AKS PG**](https://youtu.be/eB5b003C57o)
