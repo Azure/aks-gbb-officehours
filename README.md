@@ -27,24 +27,24 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 ## Schedule 
 
 **2022 Upcoming Meetings**:
-- Thursday April 21st 11 am Central Time (CST) - AKS Roadmap Update with AKS PG: Multi-cluster, Multi-tenancy & Networking
-- Thursday May 5th 11 am Central Time (CST) - AKS Security Update with AKS PG
 - Thursday May 19th 11 am Central Time (CST) - Tigera Calico CNI=none session
 - Thursday June 2nd 11 am Central Time (CST) - TBD
 - Thursday June 16th 11 am Central Time (CST) - GitOps in Azure: FluxV2 Extension & Azure Arc Capabilities
-- Thursday June 30th 11 am Central Time (CST) - AKS Roadmap Update with AKS PG
-- Thursday July 14th 11 am Central Time (CST) - AKS Security Update with AKS PG
+- Thursday June 30th 11 am Central Time (CST) - AKS Roadmap Update with Product Group
+- Thursday July 14th 11 am Central Time (CST) - AKS Security Update with Product Group
 - Thursday July 28th 11 am Central Time (CST) - TBD
 - Thursday August 11th 11 am Central Time (CST) - TBD
 
 **Past Meetings**: 
+- Thursday May 5th 11 am Central Time (CST) - [AKS Security Roadmap with PG](https://youtu.be/C9jFDqDbbZ8)
+- Thursday April 21st 11 am Central Time (CST) - [AKS Roadmap Update with PG: Fleet Management & Networking](https://youtu.be/aJqr8E4bQbc)
 - Thursday April 7th 11 am Central Time (CST) - Scheduling Cancellation
 - Thursday March 24th 11 am Central Time (CST) - [Azure AD Workload Identity](https://youtu.be/FKQG3RjFbfU)
 - Thursday March 10th 11 am Central Time (CST) - OOF Cancellation
 - Thursday February 24th 11 am Central Time (CST) - [Azure Container Apps with PG](https://youtu.be/rFXfB4aruBs)
 - ~~Thursday February 10th 11 am Central Time (CST) - Cancelled 
 - ~~Thursday January 27th 11 am Central Time (CST) - Azure Container Apps with Container Apps PG~~ RESCHEDULE DUE TO ILLNESS
-- Thursday January 13th 11 am Central Time (CST) - [**AKS Roadmap Update with AKS PG**](https://youtu.be/eB5b003C57o)
+- Thursday January 13th 11 am Central Time (CST) - [AKS Roadmap Update with PG](https://youtu.be/eB5b003C57o)
 - Thursday December 16th 11 am Central Time (CST) - [Microsoft Defender for Containers on AKS](https://youtu.be/Pdz2zKTaOv0)
 - Thursday December 2nd 11 am Central Time (CST) - [Linkerd with Buoyant](https://youtu.be/_zrVOa_ata8)
 - Thursday November 18th 11 am Central Time (CST) - [Open Discussion](https://youtu.be/Z65x_1vkykk)
@@ -53,19 +53,19 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 - Thursday October 7th 11 am Central Time (CST) - [Windows Container deep dive on AKS](https://youtu.be/rpgPWWNOU4Y)
 - Thursday September 23rd 11 am Central Time (CST) - [BoxBoat AKS Health Check](https://youtu.be/8Mjq2VtAw2g)
 - ~~Thursday September 9th 11 am Central Time (CST) - Cancelled~~
-- Thursday August 26th 11 am Central Time (CST) - [Roadmap call with Azure Kubernetes Service Team](https://youtu.be/bqn87cySRG0)
-- Thursday August 12th 11 am Central Time (CST) - [Azure Application Services (Cloud Native apps that run anywhere!)](https://youtu.be/sBpUqV5_-Ps)
+- Thursday August 26th 11 am Central Time (CST) - [AKS Roadmap Update with PG](https://youtu.be/bqn87cySRG0)
+- Thursday August 12th 11 am Central Time (CST) - [Azure Arc for Application Services (Cloud Native apps that run anywhere!)](https://youtu.be/sBpUqV5_-Ps)
 - Thursday July 29th 11 am Central Time (CST) - Cloud Native Updates and Cloud Native Open Q&A/Roundtable (not recorded) 
 - Thursday July 15th 11 am Central Time (CST) - [Azure Arc for Kubernetes](https://youtu.be/bqn87cySRG0)
 - ~~Thursday July 1st 11 am Central Time (CST) - Cancelled for July 4th Holiday~~
 - Thursday June 17th 11am Central Time (CST) - [CI/CD With GitHub Actions](https://youtu.be/70KVKetn4dM)
 - Thursday June 3rd 11am Central Time (CST) - [AKS with Terraform](https://youtu.be/lRmPWQOJGUM)
-- Thursday May 20th 11am Central Time (CST) - [**AKS Roadmap Call with Azure Kubernetes Service Product Team**](https://youtu.be/Xt6gnBPqLV4)
+- Thursday May 20th 11am Central Time (CST) - [AKS Roadmap Update with PG](https://youtu.be/Xt6gnBPqLV4)
 - ~~Thursday May 6th 11am Central Time (CST) - Cancelling due to KubeCon~~
 - Thursday April 22nd 11am Central Time (CST) - [Open Service Mesh Add-on for AKS](https://youtu.be/xrCkX4CEtuw)
 - Thursday April 8th 11am Central Time (CST) - [Bridge to Kubernetes](https://www.youtube.com/watch?v=ayziamboWlo)
 - Thursday March 25th 11am Central Time (CST) - Dapr on Kubernetes (Recording issue) 
-- Thursday March 11th 11am Central Time (CST) - [**AKS Roadmap Call with Azure Kubernetes Service Product Group**](https://youtu.be/fy76498bhYU)
+- Thursday March 11th 11am Central Time (CST) - [AKS Roadmap Update with PG](https://youtu.be/fy76498bhYU)
 - Thursday February 25th 11am Central Time (CST) - [BYO Private DNS Zone Recording](https://www.youtube.com/watch?v=8Q2olWtNHBw), [Resource Links](https://github.com/Azure/aks-gbb-officehours/blob/main/Resources.md)
 - Thursday February 11th 11am Central Time (CST) - [Service Mesh Discussion Recording](https://youtu.be/3Y66q_AgtvY), [Resource Links](https://github.com/Azure/aks-gbb-officehours/blob/main/Resources.md#open-source-and-ecosystem-callouts-2112021)
 - Thursday January 28th 11am Central Time (CST) - [Application Gateway Ingress Controller for AKS](https://youtu.be/ybJY5_U5sdg?list=PLKFaWBYMOdDtIGnRBFSgjWwrkaqP3XZ5M)
