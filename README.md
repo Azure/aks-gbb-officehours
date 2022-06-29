@@ -27,13 +27,14 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 ## Schedule 
 
 **2022 Upcoming Meetings**:
-- **Next Thursday:**  June 16th 11 am Central Time (CST) - GitOps in Azure: FluxV2 Extension & Azure Arc Capabilities
-- Thursday June 30th 11 am Central Time (CST) - AKS Roadmap Update with Product Group
+- **Next Thursday:** June 30th 11 am Central Time (CST) - AKS Roadmap Update with Product Group
 - Thursday July 14th 11 am Central Time (CST) - AKS Security Update with Product Group
-- Thursday July 28th 11 am Central Time (CST) - TBD
-- Thursday August 11th 11 am Central Time (CST) - TBD
+- Thursday July 28th 11 am Central Time (CST) - Cancelled for Summer Break: Back in September
+- Thursday August 11th 11 am Central Time (CST) - Cancelled for Summer Break: Back in September
+- Thursday August 11th 25 am Central Time (CST) - Cancelled for Summer Break: Back in September
 
 **Past Meetings**: 
+- Thursday June 16th 11 am Central Time (CST) - [GitOps in Azure: FluxV2 Extension & Azure Arc Capabilities](https://youtu.be/uDfZs4nLsD0)
 - Thursday June 2nd 11 am Central Time (CST) - [AKS On-prem Deep Dive](https://youtu.be/0CfxDMf_eiw)
 - Thursday May 19th 11 am Central Time (CST) - [Tigera Calico CNI=None session](https://youtu.be/vFLl-1Z1p_Y)
 - Thursday May 5th 11 am Central Time (CST) - [AKS Security Roadmap with PG](https://youtu.be/C9jFDqDbbZ8)
