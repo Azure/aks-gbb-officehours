@@ -27,10 +27,10 @@ Every two weeks, the Cloud Native Global Black Belt team at Microsoft will hold 
 ## Schedule 
 
 **2022 Upcoming Meetings**:
-- **Next Thursday:** July 14th 11 am Central Time (CST) - AKS Security Update with Product Group
-- Thursday July 28th 11 am Central Time (CST) - Cancelled for Summer Break: Back in September
-- Thursday August 11th 11 am Central Time (CST) - Cancelled for Summer Break: Back in September
-- Thursday August 11th 25 am Central Time (CST) - Cancelled for Summer Break: Back in September
+- **Next Thursday:** July 14th 11 am Central Time (CST) - CANCELLED for Summer Break: Back in September!
+- Thursday July 28th 11 am Central Time (CST) - Cancelled for Summer Break: Back in September!
+- Thursday August 11th 11 am Central Time (CST) - Cancelled for Summer Break: Back in September!
+- Thursday August 11th 25 am Central Time (CST) - Cancelled for Summer Break: Back in September!
 
 **Past Meetings**: 
 - Thursday June 30th 11 am Central Time (CST) - [AKS Roadmap Update with Product Group](https://youtu.be/iuOrcYGTxZE)
